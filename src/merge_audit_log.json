@@ -1,0 +1,333 @@
+[
+    {
+        "type": "entity_merge",
+        "alias": "enroncredit",
+        "canonical": "enroncredit.com ltd.",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "sara william s bradford",
+        "canonical": "william s bradford x-cc",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "rod nelson",
+        "canonical": "rod nelson/lon/ect@ect",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "enroncredit.com",
+        "canonical": "enroncredit.com ltd.",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "jeff kinneman",
+        "canonical": "jeff",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "william s bradford/hou",
+        "canonical": "william s bradford x-cc",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "mark taylor/hou",
+        "canonical": "mark taylor/hou/ect@ect",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "jeff kinneman's",
+        "canonical": "jeff",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "enroncredit.com limited",
+        "canonical": "enroncredit.com ltd.",
+        "score": 90.47619047619048,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "ect investments",
+        "canonical": "ect investments, inc.",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "sara.shackleton@enron.com",
+        "canonical": "sara shackleton",
+        "reason": "normalized_match"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "william.bradford@enron.com|email|sara shackleton",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|email|william.bradford@enron.com",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|jeff",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|discusses_media|credit derivatives",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "william s bradford|discusses_media|credit derivatives",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "william s bradford|mentions_person|jeff",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|jeff",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|rod",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "william s bradford|mentions_person|sara shackleton",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "william s bradford|mentions_person|rod nelson/lon/ect@ect",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "william s bradford|mentions_person|jeff",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|jeff",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|jeff",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|rod",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|discusses_media|credit derivatives",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|william s bradford",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|enroncredit.com ltd.",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "william s bradford|mentions_person|paul radous",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "william s bradford|mentions_person|rod nelson/lon/ect@ect",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "william s bradford|mentions_person|jeff",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|enroncredit.com ltd.",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "sara shackleton|mentions_person|ect investments, inc.",
+        "timestamp": "2026-03-08 21:35:32.962730"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "aimee",
+        "canonical": "aimee lannou",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "pat",
+        "canonical": "pat clynes",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "pat.clynes@enron.com",
+        "canonical": "pat clynes",
+        "reason": "normalized_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "aimee.lannou@enron.com",
+        "canonical": "aimee lannou",
+        "reason": "normalized_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "enron",
+        "canonical": "paul radous/corp/enron@enron",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "joe parks",
+        "canonical": "parks",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "chet",
+        "canonical": "chet sent",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "erik",
+        "canonical": "erik wollam",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "brian constantine sent",
+        "canonical": "brian constantine",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "joe.parks@bridgeline.net",
+        "canonical": "parks",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "knipe3@msn.com",
+        "canonical": "knipe3@msn.com",
+        "reason": "normalized_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "chet_fenner@bmc.com",
+        "canonical": "chet fenner",
+        "reason": "normalized_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "joe.parks@bridgeline.net",
+        "canonical": "joe.parks@enron.com",
+        "reason": "normalized_match"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "fenner, chet|discusses_event|man night",
+        "timestamp": "2026-03-08 21:35:55.702831"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "fenner, chet|discusses_event|man night",
+        "timestamp": "2026-03-08 21:35:55.702831"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "chad knipe|discusses_event|man night",
+        "timestamp": "2026-03-08 21:35:55.702831"
+    },
+    {
+        "type": "claim_merge",
+        "claim": "chad knipe|discusses_event|man night",
+        "timestamp": "2026-03-08 21:35:55.702831"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "enron",
+        "canonical": "paul radous/corp/enron@enron",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "na",
+        "canonical": "na",
+        "reason": "normalized_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "non-privileged)\\chris stokley\\iso\\client rep x-origin",
+        "canonical": "x-origin:",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "chris germany x-to",
+        "canonical": "chris",
+        "score": 100.0,
+        "reason": "fuzzy_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "x-origin",
+        "canonical": "x-origin:",
+        "reason": "normalized_match"
+    },
+    {
+        "type": "entity_merge",
+        "alias": "thomas.engel@enron.com",
+        "canonical": "thomas engel",
+        "reason": "normalized_match"
+    }
+]

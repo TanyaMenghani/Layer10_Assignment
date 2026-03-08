@@ -1,0 +1,2084 @@
+{
+    "entities": [
+        {
+            "name": "sara shackleton",
+            "type": "Person"
+        },
+        {
+            "name": "william s bradford x-cc",
+            "type": "Person"
+        },
+        {
+            "name": "bill",
+            "type": "Person"
+        },
+        {
+            "name": "jeff",
+            "type": "Person"
+        },
+        {
+            "name": "enroncredit.com ltd.",
+            "type": "Organization"
+        },
+        {
+            "name": "dennis o'connell",
+            "type": "Person"
+        },
+        {
+            "name": "08/29/2000 07:24 am",
+            "type": "Person"
+        },
+        {
+            "name": "sara shackleton/hou",
+            "type": "Organization"
+        },
+        {
+            "name": "mark taylor/hou/ect@ect",
+            "type": "Person"
+        },
+        {
+            "name": "paul radous/corp/enron@enron",
+            "type": "Organization"
+        },
+        {
+            "name": "rod nelson/lon/ect@ect",
+            "type": "Person"
+        },
+        {
+            "name": "paul radous",
+            "type": "Person"
+        },
+        {
+            "name": "credit",
+            "type": "Organization"
+        },
+        {
+            "name": "dlj",
+            "type": "Organization"
+        },
+        {
+            "name": "treasury",
+            "type": "Organization"
+        },
+        {
+            "name": "ect investments, inc.",
+            "type": "Organization"
+        },
+        {
+            "name": "ena",
+            "type": "Organization"
+        },
+        {
+            "name": "international capital",
+            "type": "Organization"
+        },
+        {
+            "name": "fyi",
+            "type": "Organization"
+        },
+        {
+            "name": "deutsche bank",
+            "type": "Organization"
+        },
+        {
+            "name": "ubs ag",
+            "type": "Organization"
+        },
+        {
+            "name": "william.bradford@enron.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "lamay gaslift cc",
+            "type": "Person"
+        },
+        {
+            "name": "pat clynes",
+            "type": "Person"
+        },
+        {
+            "name": "aimee lannou",
+            "type": "Person"
+        },
+        {
+            "name": "daren j farmer x-bcc",
+            "type": "Person"
+        },
+        {
+            "name": "x-origin:",
+            "type": "Organization"
+        },
+        {
+            "name": "daren.farmer@enron.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "parks",
+            "type": "Person"
+        },
+        {
+            "name": "joe",
+            "type": "Person"
+        },
+        {
+            "name": "na",
+            "type": "Organization"
+        },
+        {
+            "name": "brian constantine",
+            "type": "Person"
+        },
+        {
+            "name": "erik wollam",
+            "type": "Person"
+        },
+        {
+            "name": "brad corrier",
+            "type": "Person"
+        },
+        {
+            "name": "chet sent",
+            "type": "Person"
+        },
+        {
+            "name": "tony",
+            "type": "Person"
+        },
+        {
+            "name": "chet fenner",
+            "type": "Person"
+        },
+        {
+            "name": "knipe3@msn.com",
+            "type": "Organization"
+        },
+        {
+            "name": "zander",
+            "type": "Person"
+        },
+        {
+            "name": "out\"",
+            "type": "Person"
+        },
+        {
+            "name": "jake",
+            "type": "Person"
+        },
+        {
+            "name": "chambers",
+            "type": "Organization"
+        },
+        {
+            "name": "bc",
+            "type": "Organization"
+        },
+        {
+            "name": "cca",
+            "type": "Organization"
+        },
+        {
+            "name": "bridgeline holdings",
+            "type": "Organization"
+        },
+        {
+            "name": "fenner.chet@enron.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "joe.parks@enron.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "constantine.brian@enron.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "wollam.erik@enron.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "corrier.brad@enron.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "brianc@saltgrass.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "erwollam@hotmail.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "bcorrier@cox-internet.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "c.r.zander@att.net",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "lawfeder@msn.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "keoni",
+            "type": "Person"
+        },
+        {
+            "name": "chris",
+            "type": "Person"
+        },
+        {
+            "name": "ferc",
+            "type": "Organization"
+        },
+        {
+            "name": "keoni almeida",
+            "type": "Organization"
+        },
+        {
+            "name": "kalmeida@caiso.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "chris.stokley@enron.com",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "9169812000.1151268@pagenet.net",
+            "type": "EmailAddress"
+        },
+        {
+            "name": "thomas engel",
+            "type": "Person"
+        },
+        {
+            "name": "the receipt meter",
+            "type": "Person"
+        },
+        {
+            "name": "receipt",
+            "type": "Organization"
+        },
+        {
+            "name": "chris.germany@enron.com",
+            "type": "EmailAddress"
+        }
+    ],
+    "claims": [
+        {
+            "source": "sara shackleton",
+            "type": "email",
+            "target": "william.bradford@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "From: sara.shackleton@enron.com\nTo: william.bradford@enron.com",
+                    "start_offset": 102,
+                    "end_offset": 164,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "To: Sara Shackleton/HOU/ECT@ECT\nSubject: Re: Credit Derivatives",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 2,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "william.bradford@enron.com",
+            "type": "email",
+            "target": "sara shackleton",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "From: sara.shackleton@enron.com\nTo: william.bradford@enron.com",
+                    "start_offset": 102,
+                    "end_offset": 164,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "To: Sara Shackleton/HOU/ECT@ECT\nSubject: Re: Credit Derivatives",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 2,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "jeff",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "I also spoke with Jeff about how",
+                    "start_offset": 498,
+                    "end_offset": 530,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "The trades originating in Houston are coming from Jeff Kinneman's bond/debt traders",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "jeff's \"positions\"",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 5,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "dennis o'connell",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "since Dennis O'Connell (London lawyer)",
+                    "start_offset": 571,
+                    "end_offset": 609,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "rod",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Maybe Rod will be handling most of Jeff's credit.",
+                    "start_offset": 764,
+                    "end_offset": 813,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Rod will be handling most of Jeff's credit.",
+                    "start_offset": 770,
+                    "end_offset": 813,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 3,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "william s bradford",
+            "type": "mentions_person",
+            "target": "paul radous",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Please contact either Paul Radous or me on credit derivatives in the U.S.",
+                    "start_offset": 1059,
+                    "end_offset": 1132,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 2,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "william s bradford",
+            "type": "mentions_person",
+            "target": "rod nelson/lon/ect@ect",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Rod Nelson is the lead credit support for EnronCredit.com",
+                    "start_offset": 1135,
+                    "end_offset": 1192,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 3,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "william s bradford",
+            "type": "mentions_person",
+            "target": "jeff",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "I am having lunch with Jeff Kinneman on Thursday",
+                    "start_offset": 1292,
+                    "end_offset": 1340,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "I am having lunch with Jeff Kinneman on Thursday to discuss among other things Credit support for his business.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 4,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "discusses_media",
+            "target": "credit derivatives",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "I am seeing more and more credit derivatives.",
+                    "start_offset": 1653,
+                    "end_offset": 1698,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Re: Credit Derivatives",
+                    "start_offset": 174,
+                    "end_offset": 196,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 3,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "william s bradford",
+            "type": "discusses_media",
+            "target": "credit derivatives",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Please contact either Paul Radous or me on credit derivatives in the U.S.",
+                    "start_offset": 1059,
+                    "end_offset": 1132,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Re: Credit Derivatives",
+                    "start_offset": 174,
+                    "end_offset": 196,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 2,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "william s bradford",
+            "type": "mentions_person",
+            "target": "sara shackleton",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "To: Sara Shackleton/HOU/ECT@ECT",
+                    "start_offset": 898,
+                    "end_offset": 929,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Sara,\nPlease contact either Paul Radous or me on credit derivatives in the U.S.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 2,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "william s bradford",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Bill: Thanks for the info.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 2,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "works_for",
+            "target": "enron",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "From: sara.shackleton@enron.com",
+                    "start_offset": 102,
+                    "end_offset": 133,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "william s bradford",
+            "type": "works_for",
+            "target": "enron",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "To: Sara Shackleton/HOU/ECT@ECT",
+                    "start_offset": 898,
+                    "end_offset": 929,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "jeff",
+            "type": "works_for",
+            "target": "enron",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "The trades originating in Houston are coming from Jeff Kinneman's bond/debt traders",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "dennis o'connell",
+            "type": "works_for",
+            "target": "enron",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "since Dennis O'Connell (London lawyer)",
+                    "start_offset": 571,
+                    "end_offset": 609,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "paul radous",
+            "type": "works_for",
+            "target": "enron",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Paul Radous/Corp/Enron@ENRON",
+                    "start_offset": 962,
+                    "end_offset": 990,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "rod nelson/lon/ect@ect",
+            "type": "works_for",
+            "target": "enron",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Rod Nelson/LON/ECT@ECT",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "mark taylor",
+            "type": "works_for",
+            "target": "enron",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Mark Taylor/HOU/ECT@ECT",
+                    "start_offset": 937,
+                    "end_offset": 960,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "participates_in",
+            "target": "credit derivatives",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "I also spoke with Jeff about how\nEnronCredit.com Ltd. was going to work since Dennis O'Connell (London lawyer)\nis responsible for that group.  Maybe you will be able to clarify which of\nJeff's \"positions\" will be hedges and which will be backed to EnronCredit.\nMaybe Rod will be handling most of Jeff's credit.  I'd appreciate an update.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "enroncredit.com ltd.",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "EnronCredit.com Ltd. was going to work",
+                    "start_offset": 532,
+                    "end_offset": 570,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "backed to EnronCredit.",
+                    "start_offset": 739,
+                    "end_offset": 761,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "backed to EnronCredit.com Limited.",
+                    "start_offset": 1880,
+                    "end_offset": 1914,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 3,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "ect investments, inc.",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "booked in the name of ECT Investments, Inc.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                },
+                {
+                    "source_id": "email_0",
+                    "excerpt": "requiring ECT Investments to post collateral.",
+                    "start_offset": 2009,
+                    "end_offset": 2054,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 2,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "ena",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "or ENA.",
+                    "start_offset": 1838,
+                    "end_offset": 1845,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "dlj international capital",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "proposed total return bond trade with DLJ International Capital",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "deutsche bank",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "deals seem to be transacted wtih Deutsche Bank",
+                    "start_offset": 2170,
+                    "end_offset": 2216,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "ubs ag",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "and UBS AG.",
+                    "start_offset": 2217,
+                    "end_offset": 2228,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "william s bradford",
+            "type": "mentions_person",
+            "target": "treasury",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "without Treasury's approval.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "discusses_event",
+            "target": "credit derivatives",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "I am seeing more and more credit derivatives.",
+                    "start_offset": 1653,
+                    "end_offset": 1698,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "william s bradford",
+            "type": "discusses_event",
+            "target": "credit derivatives",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Please contact either Paul Radous or me on credit derivatives in the U.S.",
+                    "start_offset": 1059,
+                    "end_offset": 1132,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "sara shackleton",
+            "type": "mentions_person",
+            "target": "bill",
+            "evidence_set": [
+                {
+                    "source_id": "email_0",
+                    "excerpt": "Bill: Thanks for the info.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:32.962730"
+                }
+            ],
+            "confidence": 0.9,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:32.962730",
+            "last_seen": "2026-03-08 21:35:32.962730",
+            "valid_from": "2026-03-08 21:35:32.962730",
+            "valid_to": null
+        },
+        {
+            "source": "pat clynes",
+            "type": "email",
+            "target": "aimee lannou",
+            "evidence_set": [
+                {
+                    "source_id": "email_1",
+                    "excerpt": "From: pat.clynes@enron.com\nTo: aimee.lannou@enron.com",
+                    "start_offset": 102,
+                    "end_offset": 155,
+                    "timestamp": "2026-03-08 21:35:44.442607"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:44.442607",
+            "last_seen": "2026-03-08 21:35:44.442607",
+            "valid_from": "2026-03-08 21:35:44.442607",
+            "valid_to": null
+        },
+        {
+            "source": "aimee lannou",
+            "type": "email",
+            "target": "pat clynes",
+            "evidence_set": [
+                {
+                    "source_id": "email_1",
+                    "excerpt": "From: pat.clynes@enron.com\nTo: aimee.lannou@enron.com",
+                    "start_offset": 102,
+                    "end_offset": 155,
+                    "timestamp": "2026-03-08 21:35:44.442607"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:44.442607",
+            "last_seen": "2026-03-08 21:35:44.442607",
+            "valid_from": "2026-03-08 21:35:44.442607",
+            "valid_to": null
+        },
+        {
+            "source": "pat clynes",
+            "type": "email",
+            "target": "daren.farmer@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_1",
+                    "excerpt": "From: pat.clynes@enron.com\nCc: daren.farmer@enron.com",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:44.442607"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:44.442607",
+            "last_seen": "2026-03-08 21:35:44.442607",
+            "valid_from": "2026-03-08 21:35:44.442607",
+            "valid_to": null
+        },
+        {
+            "source": "daren.farmer@enron.com",
+            "type": "email",
+            "target": "pat clynes",
+            "evidence_set": [
+                {
+                    "source_id": "email_1",
+                    "excerpt": "From: pat.clynes@enron.com\nCc: daren.farmer@enron.com",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:44.442607"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:44.442607",
+            "last_seen": "2026-03-08 21:35:44.442607",
+            "valid_from": "2026-03-08 21:35:44.442607",
+            "valid_to": null
+        },
+        {
+            "source": "pat clynes",
+            "type": "mentions_person",
+            "target": "aimee lannou",
+            "evidence_set": [
+                {
+                    "source_id": "email_1",
+                    "excerpt": "Aimee,\nPlease check meter #1591 Lamay gas lift.  It doesn't appear to have very much \nflow and the\nBAV is showing the nom volume.  This could be adversely affecting the risk \nnumbers.  Pat",
+                    "start_offset": 507,
+                    "end_offset": 695,
+                    "timestamp": "2026-03-08 21:35:44.442607"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:44.442607",
+            "last_seen": "2026-03-08 21:35:44.442607",
+            "valid_from": "2026-03-08 21:35:44.442607",
+            "valid_to": null
+        },
+        {
+            "source": "pat clynes",
+            "type": "works_for",
+            "target": "enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_1",
+                    "excerpt": "From: pat.clynes@enron.com",
+                    "start_offset": 102,
+                    "end_offset": 128,
+                    "timestamp": "2026-03-08 21:35:44.442607"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:44.442607",
+            "last_seen": "2026-03-08 21:35:44.442607",
+            "valid_from": "2026-03-08 21:35:44.442607",
+            "valid_to": null
+        },
+        {
+            "source": "aimee lannou",
+            "type": "works_for",
+            "target": "enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_1",
+                    "excerpt": "To: aimee.lannou@enron.com",
+                    "start_offset": 129,
+                    "end_offset": 155,
+                    "timestamp": "2026-03-08 21:35:44.442607"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:44.442607",
+            "last_seen": "2026-03-08 21:35:44.442607",
+            "valid_from": "2026-03-08 21:35:44.442607",
+            "valid_to": null
+        },
+        {
+            "source": "daren.farmer@enron.com",
+            "type": "works_for",
+            "target": "enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_1",
+                    "excerpt": "Cc: daren.farmer@enron.com",
+                    "start_offset": 191,
+                    "end_offset": 217,
+                    "timestamp": "2026-03-08 21:35:44.442607"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:44.442607",
+            "last_seen": "2026-03-08 21:35:44.442607",
+            "valid_from": "2026-03-08 21:35:44.442607",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "email",
+            "target": "fenner.chet@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "email",
+            "target": "joe.parks@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "email",
+            "target": "constantine.brian@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "email",
+            "target": "wollam.erik@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "email",
+            "target": "corrier.brad@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "fenner.chet@enron.com",
+            "type": "email",
+            "target": "knipe3@msn.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "joe.parks@enron.com",
+            "type": "email",
+            "target": "knipe3@msn.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "constantine.brian@enron.com",
+            "type": "email",
+            "target": "knipe3@msn.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "wollam.erik@enron.com",
+            "type": "email",
+            "target": "knipe3@msn.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "corrier.brad@enron.com",
+            "type": "email",
+            "target": "knipe3@msn.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com\nTo: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "has_email",
+            "target": "knipe3@msn.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "From: knipe3@msn.com",
+                    "start_offset": 101,
+                    "end_offset": 121,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "fenner.chet@enron.com",
+            "type": "has_email",
+            "target": "fenner.chet@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "To: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 122,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "joe.parks@enron.com",
+            "type": "has_email",
+            "target": "joe.parks@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "To: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 122,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "constantine.brian@enron.com",
+            "type": "has_email",
+            "target": "constantine.brian@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "To: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 122,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "wollam.erik@enron.com",
+            "type": "has_email",
+            "target": "wollam.erik@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "To: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 122,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "corrier.brad@enron.com",
+            "type": "has_email",
+            "target": "corrier.brad@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "To: fenner.chet@enron.com, joe.parks@enron.com, constantine.brian@enron.com, \n\twollam.erik@enron.com, corrier.brad@enron.com",
+                    "start_offset": 122,
+                    "end_offset": 246,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "mentions_person",
+            "target": "parks",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Pig and I and ?? and ?? will be there",
+                    "start_offset": 866,
+                    "end_offset": 903,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "mentions_person",
+            "target": "joe",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Pig and I and ?? and ?? will be there",
+                    "start_offset": 866,
+                    "end_offset": 903,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "discusses_event",
+            "target": "gcca crawfish and rip-off raffle & over-priced print extravaganza",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "GCCA Crawfish and rip-off raffle & over-priced print extravaganza tonight at approx\n6-6:30pm.",
+                    "start_offset": 771,
+                    "end_offset": 864,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "knipe3@msn.com",
+            "type": "participates_in",
+            "target": "gcca crawfish and rip-off raffle & over-priced print extravaganza",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "GCCA Crawfish and rip-off raffle & over-priced print extravaganza tonight at approx\n6-6:30pm.  Pig and I and ?? and ?? will be there",
+                    "start_offset": 771,
+                    "end_offset": 903,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "fenner, chet",
+            "type": "discusses_event",
+            "target": "man night",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Subject: RE: man night again?",
+                    "start_offset": 1207,
+                    "end_offset": 1236,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 3,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "parks, joe",
+            "type": "discusses_event",
+            "target": "man night",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Subject: RE: man night again?",
+                    "start_offset": 1207,
+                    "end_offset": 1236,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "chad knipe",
+            "type": "discusses_event",
+            "target": "man night",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Subject: Re: man night again?",
+                    "start_offset": 247,
+                    "end_offset": 276,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 3,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "fenner, chet",
+            "type": "discusses_event",
+            "target": "shin-dig",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Subject: RE: man night again?\n\nWhere is this shin-dig?",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "brian constantine",
+            "type": "participates_in",
+            "target": "man night",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Subject: RE: man night again?\n\nI am IN!!!",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "brian constantine",
+            "type": "mentions_person",
+            "target": "zander",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Zander is \"out\"",
+                    "start_offset": 3715,
+                    "end_offset": 3730,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "brian constantine",
+            "type": "mentions_person",
+            "target": "jake",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "unless he brings Jake.",
+                    "start_offset": 3733,
+                    "end_offset": 3755,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "brian constantine",
+            "type": "mentions_person",
+            "target": "chambers",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Someone forward to Chambers...",
+                    "start_offset": 3756,
+                    "end_offset": 3786,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "erik wollam",
+            "type": "discusses_event",
+            "target": "man night",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Subject: man night again?",
+                    "start_offset": 4074,
+                    "end_offset": 4099,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "erik wollam",
+            "type": "discusses_event",
+            "target": "cca crawfish boil function",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Zander called and suggested we attend the CCA crawfish boil function to be\nheld Thurday May 2, 2002.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "erik wollam",
+            "type": "participates_in",
+            "target": "cca crawfish boil function",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "I'm in",
+                    "start_offset": 4380,
+                    "end_offset": 4386,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "erik wollam",
+            "type": "mentions_person",
+            "target": "zander",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "Zander called",
+                    "start_offset": 4183,
+                    "end_offset": 4196,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "erik wollam",
+            "type": "mentions_person",
+            "target": "pig",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "and we can\nsit back and watch pig win raffle prizes.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "joe.parks@enron.com",
+            "type": "works_for",
+            "target": "bridgeline holdings",
+            "evidence_set": [
+                {
+                    "source_id": "email_2",
+                    "excerpt": "This e-mail is the property of Bridgeline Holdings, L.P. and/or its relevant affiliate(s)",
+                    "start_offset": 4607,
+                    "end_offset": 4696,
+                    "timestamp": "2026-03-08 21:35:55.702831"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:35:55.702831",
+            "last_seen": "2026-03-08 21:35:55.702831",
+            "valid_from": "2026-03-08 21:35:55.702831",
+            "valid_to": null
+        },
+        {
+            "source": "kalmeida@caiso.com",
+            "type": "email",
+            "target": "chris.stokley@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_3",
+                    "excerpt": "From: kalmeida@caiso.com\nTo: chris.stokley@enron.com",
+                    "start_offset": 101,
+                    "end_offset": 153,
+                    "timestamp": "2026-03-08 21:36:06.861334"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:06.861334",
+            "last_seen": "2026-03-08 21:36:06.861334",
+            "valid_from": "2026-03-08 21:36:06.861334",
+            "valid_to": null
+        },
+        {
+            "source": "keoni almeida",
+            "type": "has_email",
+            "target": "kalmeida@caiso.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_3",
+                    "excerpt": "e-mail:  <mailto:kalmeida@caiso.com>",
+                    "start_offset": 1324,
+                    "end_offset": 1360,
+                    "timestamp": "2026-03-08 21:36:06.861334"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:06.861334",
+            "last_seen": "2026-03-08 21:36:06.861334",
+            "valid_from": "2026-03-08 21:36:06.861334",
+            "valid_to": null
+        },
+        {
+            "source": "keoni almeida",
+            "type": "works_for",
+            "target": "california independent system operator",
+            "evidence_set": [
+                {
+                    "source_id": "email_3",
+                    "excerpt": "Keoni Almeida \nCalifornia Independent System Operator",
+                    "start_offset": 1183,
+                    "end_offset": 1236,
+                    "timestamp": "2026-03-08 21:36:06.861334"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:06.861334",
+            "last_seen": "2026-03-08 21:36:06.861334",
+            "valid_from": "2026-03-08 21:36:06.861334",
+            "valid_to": null
+        },
+        {
+            "source": "kalmeida@caiso.com",
+            "type": "mentions_person",
+            "target": "chris",
+            "evidence_set": [
+                {
+                    "source_id": "email_3",
+                    "excerpt": "Chris, per your request here are the 480 and 1480 charges",
+                    "start_offset": 558,
+                    "end_offset": 615,
+                    "timestamp": "2026-03-08 21:36:06.861334"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:06.861334",
+            "last_seen": "2026-03-08 21:36:06.861334",
+            "valid_from": "2026-03-08 21:36:06.861334",
+            "valid_to": null
+        },
+        {
+            "source": "kalmeida@caiso.com",
+            "type": "discusses_event",
+            "target": "ferc should rule on this during september",
+            "evidence_set": [
+                {
+                    "source_id": "email_3",
+                    "excerpt": "I checked with some folks and found out that FERC should rule on this during September.",
+                    "start_offset": null,
+                    "end_offset": null,
+                    "timestamp": "2026-03-08 21:36:06.861334"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:06.861334",
+            "last_seen": "2026-03-08 21:36:06.861334",
+            "valid_from": "2026-03-08 21:36:06.861334",
+            "valid_to": null
+        },
+        {
+            "source": "kalmeida@caiso.com",
+            "type": "discusses_media",
+            "target": "keoni.zip",
+            "evidence_set": [
+                {
+                    "source_id": "email_3",
+                    "excerpt": "<<Keoni.zip>> Chris, per your request here are the 480 and 1480 charges",
+                    "start_offset": 544,
+                    "end_offset": 615,
+                    "timestamp": "2026-03-08 21:36:06.861334"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:06.861334",
+            "last_seen": "2026-03-08 21:36:06.861334",
+            "valid_from": "2026-03-08 21:36:06.861334",
+            "valid_to": null
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "type": "email",
+            "target": "thomas engel",
+            "evidence_set": [
+                {
+                    "source_id": "email_4",
+                    "excerpt": "From: chris.germany@enron.com",
+                    "start_offset": 102,
+                    "end_offset": 131,
+                    "timestamp": "2026-03-08 21:36:09.389663"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:09.389663",
+            "last_seen": "2026-03-08 21:36:09.389663",
+            "valid_from": "2026-03-08 21:36:09.389663",
+            "valid_to": null
+        },
+        {
+            "source": "thomas engel",
+            "type": "email",
+            "target": "chris.germany@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_4",
+                    "excerpt": "To: thomas.engel@enron.com",
+                    "start_offset": 132,
+                    "end_offset": 158,
+                    "timestamp": "2026-03-08 21:36:09.389663"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:09.389663",
+            "last_seen": "2026-03-08 21:36:09.389663",
+            "valid_from": "2026-03-08 21:36:09.389663",
+            "valid_to": null
+        },
+        {
+            "source": "chris germany",
+            "type": "has_email",
+            "target": "chris.germany@enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_4",
+                    "excerpt": "From: chris.germany@enron.com",
+                    "start_offset": 102,
+                    "end_offset": 131,
+                    "timestamp": "2026-03-08 21:36:09.389663"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:09.389663",
+            "last_seen": "2026-03-08 21:36:09.389663",
+            "valid_from": "2026-03-08 21:36:09.389663",
+            "valid_to": null
+        },
+        {
+            "source": "thomas engel",
+            "type": "has_email",
+            "target": "thomas engel",
+            "evidence_set": [
+                {
+                    "source_id": "email_4",
+                    "excerpt": "To: thomas.engel@enron.com",
+                    "start_offset": 132,
+                    "end_offset": 158,
+                    "timestamp": "2026-03-08 21:36:09.389663"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:09.389663",
+            "last_seen": "2026-03-08 21:36:09.389663",
+            "valid_from": "2026-03-08 21:36:09.389663",
+            "valid_to": null
+        },
+        {
+            "source": "chris germany",
+            "type": "works_for",
+            "target": "enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_4",
+                    "excerpt": "chris.germany@enron.com",
+                    "start_offset": 108,
+                    "end_offset": 131,
+                    "timestamp": "2026-03-08 21:36:09.389663"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:09.389663",
+            "last_seen": "2026-03-08 21:36:09.389663",
+            "valid_from": "2026-03-08 21:36:09.389663",
+            "valid_to": null
+        },
+        {
+            "source": "thomas engel",
+            "type": "works_for",
+            "target": "enron.com",
+            "evidence_set": [
+                {
+                    "source_id": "email_4",
+                    "excerpt": "thomas.engel@enron.com",
+                    "start_offset": 136,
+                    "end_offset": 158,
+                    "timestamp": "2026-03-08 21:36:09.389663"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:09.389663",
+            "last_seen": "2026-03-08 21:36:09.389663",
+            "valid_from": "2026-03-08 21:36:09.389663",
+            "valid_to": null
+        },
+        {
+            "source": "chris germany",
+            "type": "mentions_person",
+            "target": "thomas engel",
+            "evidence_set": [
+                {
+                    "source_id": "email_4",
+                    "excerpt": "Thomas Engel",
+                    "start_offset": 304,
+                    "end_offset": 316,
+                    "timestamp": "2026-03-08 21:36:09.389663"
+                }
+            ],
+            "confidence": 1.0,
+            "support_count": 1,
+            "first_seen": "2026-03-08 21:36:09.389663",
+            "last_seen": "2026-03-08 21:36:09.389663",
+            "valid_from": "2026-03-08 21:36:09.389663",
+            "valid_to": null
+        }
+    ],
+    "aliases": {
+        "enroncredit": "enroncredit.com ltd.",
+        "sara william s bradford": "william s bradford x-cc",
+        "rod nelson": "rod nelson/lon/ect@ect",
+        "enroncredit.com": "enroncredit.com ltd.",
+        "jeff kinneman": "jeff",
+        "william s bradford/hou": "william s bradford x-cc",
+        "mark taylor/hou": "mark taylor/hou/ect@ect",
+        "jeff kinneman's": "jeff",
+        "enroncredit.com limited": "enroncredit.com ltd.",
+        "ect investments": "ect investments, inc.",
+        "sara.shackleton@enron.com": "sara shackleton",
+        "aimee": "aimee lannou",
+        "pat": "pat clynes",
+        "pat.clynes@enron.com": "pat clynes",
+        "aimee.lannou@enron.com": "aimee lannou",
+        "enron": "paul radous/corp/enron@enron",
+        "joe parks": "parks",
+        "chet": "chet sent",
+        "erik": "erik wollam",
+        "brian constantine sent": "brian constantine",
+        "joe.parks@bridgeline.net": "joe.parks@enron.com",
+        "knipe3@msn.com": "knipe3@msn.com",
+        "chet_fenner@bmc.com": "chet fenner",
+        "na": "na",
+        "non-privileged)\\chris stokley\\iso\\client rep x-origin": "x-origin:",
+        "chris germany x-to": "chris",
+        "x-origin": "x-origin:",
+        "thomas.engel@enron.com": "thomas engel"
+    }
+}
