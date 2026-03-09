@@ -15,7 +15,7 @@ nlp = spacy.load("en_core_web_sm")
 # -----------------------------
 # Configure Gemini
 # -----------------------------
-genai.configure(api_key="AIzaSyDtGnjjKo7kWjs7GTlCtsrLoV-J_WW-Geo")
+genai.configure(api_key="")
 model = genai.GenerativeModel("gemini-2.5-flash-lite")
 
 
